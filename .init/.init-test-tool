@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/travel-explorer-platform-286895-286904/travel_catalogue_frontend"
+}
